@@ -1,0 +1,36 @@
+// DM Environment file for Hurricane 2.0.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Objects"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Attire.dm"
+#include "BYOS.dm"
+#include "Closet.dm"
+#include "Debris.dm"
+#include "Door.dm"
+#include "Fire.dm"
+#include "Flood.dm"
+#include "Fluff.dm"
+#include "Helicopter.dm"
+#include "Host.dm"
+#include "Hud.dm"
+#include "Hurricane 2.0.dm"
+#include "Launcher.dm"
+#include "Mob.dm"
+#include "Power Line.dm"
+#include "Rain.dm"
+#include "Story.dm"
+#include "Turf.dm"
+#include "Test.dmp"
+// END_INCLUDE
+

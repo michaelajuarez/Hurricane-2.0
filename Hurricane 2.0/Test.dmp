@@ -1,0 +1,150 @@
+"a" = (/turf/Road/Grass,/turf/Deletion,/area)
+"b" = (/turf/Road/Grass,/turf/Deletion,/turf/Power_Line/P3,/turf/Deletion,/area)
+"c" = (/turf/Road/Grass,/turf/Launcher,/area)
+"d" = (/turf/Road/Grass,/turf/Launcher,/turf/Power_Line/P3,/turf/Launcher,/area)
+"e" = (/turf/Road/Grass,/area)
+"f" = (/turf/Road/Grass,/turf/Power_Line/P3,/area)
+"g" = (/turf/Road/Grass,/turf/Power_Line/P2,/area)
+"h" = (/turf/Road/Grass,/turf/Power_Line/P1,/area)
+"i" = (/turf/Road/Grass,/turf/Power_Line/P4,/area)
+"j" = (/turf/Wall,/area)
+"k" = (/obj/Grill,/turf/Window,/area)
+"l" = (/turf/Tile,/area)
+"m" = (/obj/Closet,/turf/Tile,/area)
+"n" = (/obj/Fluff/Cot,/turf/Tile,/area)
+"o" = (/obj/BYOS/Metal,/obj/BYOS/Metal,/turf/Tile,/area)
+"p" = (/turf/Tile,/turf/Door/South,/area)
+"q" = (/turf/Tile,/turf/Door/North,/area)
+"r" = (/turf/Tile,/turf/Door/West,/area)
+"s" = (/turf/Tile,/turf/Door/East,/area)
+"t" = (/obj/Fluff/Seat,/turf/Tile,/area)
+"u" = (/obj/BYOS/Glass,/obj/BYOS/Glass,/turf/Tile,/area)
+"v" = (/obj/Fluff/Table,/turf/Tile,/area)
+"w" = (/obj/Objects/Propane,/obj/Objects/Welder,/turf/Tile,/area)
+"x" = (/obj/Objects/Propane,/obj/Objects/Propane,/obj/Objects/Welder,/turf/Tile,/area)
+"y" = (/turf/Road/Side,/area)
+"z" = (/turf/Road/Side,/turf/Launcher,/area)
+"A" = (/turf/Road/Side,/turf/Deletion,/area)
+"B" = (/turf/Road/o9,/area)
+"C" = (/turf/Road/o8,/area)
+"D" = (/turf/Road/o1,/area)
+"E" = (/turf/Road/o1,/turf/Launcher,/area)
+"F" = (/turf/Road/o1,/turf/Deletion,/area)
+"G" = (/turf/Road/o2,/area)
+"H" = (/turf/Road/o2,/turf/Launcher,/area)
+"I" = (/turf/Road/o2,/turf/Deletion,/area)
+"J" = (/turf/Road/o5,/area)
+"K" = (/turf/Road/Side,/turf/Road/Stop,/area)
+"L" = (/turf/Road/o3,/area)
+"M" = (/turf/Road/o4,/area)
+"N" = (/turf/Road/Grass,/turf/Flood_Start,/area)
+"O" = (/turf/Road/o3,/turf/Launcher,/area)
+"P" = (/turf/Road/o4,/turf/Launcher,/area)
+"Q" = (/turf/Road/o3,/turf/Deletion,/area)
+"R" = (/turf/Road/o4,/turf/Deletion,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+accccccccccccccccccdccccccccccccccccccccccccccccca
+aceeeeeeeeeeeeeeeeefeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeegeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeheeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeieeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeejkkjjkkjkkkkjkkjjkkjeeeeeeeeeeeeeeeeca
+aceeeeeeeeejjlllllllllllllllllljjeeeeeeeeeeeeeeeca
+aceeeeeeeeeklllllllllllllllllllljeeeeeeeeeeeeeeeca
+aceeeeeeeeeklllllllllllllllllllljjkkjjjkkjeeeeeeca
+aceeeeeeeeejllllljjjkjkkjkjjjllljmllmmmlmjjeeeeeca
+aceeeeeeeeekllllljjlllllllljjlllkllllllllmjeeeeeca
+aceeeeeeeeekllllljlnlnllnlnljllljllooooollkeeeeeca
+aceeeeeeeeejlllljjjkkkppkkkjjjqjjjlooooollkeeeeeca
+aceeeeeeeeekllllrlsllllllllrlslrlsllllllllkeeeeeca
+aceeeeeeeeejlllljjjlllllllljjjpjjjlooooollkeeeeeca
+aceeeeeeeeejllllljllllttlllljllljmluuuuullkeeeeeca
+aceeeeeeeeeklllllkltltvvtltlklllklluuuuulljeeeeeca
+aceeeeeeeeejllllljtvtlttltvtjllljwwwwxwwwjjeeeeeca
+aceeeeeeeeekllllljjtlllllltjjllljjkkjkjkkjeeeeeeca
+aceeeeeeeeeklllljjjjkkjjkkjjjjqjjeeeeeeeeeeeeeeeca
+aceeeeeeeeejlllljlmlllmmlllmjjpjjeeeeeeeeeeeeeeeca
+aceeeeeeeeekllljjjlllllllllljjyjeeeeeeeeeeeeeeeeca
+aceeeeeeeeeklllrlsllllllllllkyyyeeeeeeeeeeeeeeeeca
+aceeeeeeeeejjlljjjlooooooollkyyyeeeeeeeeeeeeeeeeca
+aceeeeeeeeeejkkjjmlooooooolljyyyeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeejlluuuuuuulljyyyeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeejjwwwwxwwwwjjyyyeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeejjkkjkjkkjjeyyyeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeyyyeeeeeeeeeeeeeeeeca
+aceeeeeeeyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyzA
+aceeeeeeeyBBCDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDEF
+aceeeeeeeyBBCGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGHI
+aceeeeeeeyJJKyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyzA
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+acNeeeeeeyLMyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+acccccccczOPzcccccccccccccccccccccccccccccccccccca
+aaaaaaaaaAQRAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+accccccccccccccccccdccccccccccccccccccccccccccccca
+aceeeeeeeeeeeeeeeeefeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeegeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeheeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeieeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+aceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+acNeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeca
+acccccccccccccccccccccccccccccccccccccccccccccccca
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
